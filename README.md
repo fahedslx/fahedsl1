@@ -1,4 +1,4 @@
-👋	Hi, I’m Fahed. I prefer bitbucket.org/fahedsl.
+👋	Hi, I’m Fahed. I prefer https://bitbucket.org/fahedsl.
 
 👀	I’m interested in coding, bike riding, inline skating and hard partying. :D
 	
